@@ -1,3 +1,3 @@
 # pysnake
 
-A simple snake game made in python using curses library.
+A simple snake game made with python and curses library.
